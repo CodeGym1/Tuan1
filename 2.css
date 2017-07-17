@@ -1,0 +1,22 @@
+
+img{
+    float:left;
+    width: 200px;
+    height: 200px;
+    padding-right: 50px;
+    padding-left: 20px;
+}
+
+article{
+
+    height: 200px;
+}
+.khoitin{
+
+    margin-left: 20px;
+    font-family:tahoma;
+}
+
+h1{
+    text-align: center;
+}
